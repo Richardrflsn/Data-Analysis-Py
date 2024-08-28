@@ -18,3 +18,6 @@ This project is designed for analysing e-commerce data. It provides insights int
   - Shows the most frequently used payment methods over time.
   - Provides a table of payment method distribution with percentages.
   - Includes a pie chart of payment method distribution.
+
+## Try it
+https://data-analysis-py-richardrflsn.streamlit.app/
